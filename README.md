@@ -20,7 +20,8 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Reduxt width="40" height="40"/>
 </div>
 
-### Stats:                                                                                                                                                                                                                                        ![image](https://www.codewars.com/users/jesyscyclist/badges/small))
+### Stats:                                                                                                                                                                                                                                        
+![image](https://www.codewars.com/users/jesyscyclist/badges/small)
                                                                                                                                 
 ### My pet projects:
 <h4>
