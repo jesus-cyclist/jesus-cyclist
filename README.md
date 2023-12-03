@@ -2,7 +2,6 @@
 
 <div>
   <p><b>I am a frontend-developer</b></p>
-  <p><b>My education: CSU - Computer Science and Engineering</b></p>
   <p><b>I'm looking for a job</b></p>
 </div>
 
