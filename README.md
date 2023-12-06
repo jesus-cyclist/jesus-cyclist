@@ -24,7 +24,7 @@ ___
                                                                                                                                 
 ### My pet projects:
 <h4>
-   <a href=https://github.com/jesyscyclist/GifHub>GifHub</a>
+   <a href=https://github.com/jesyscyclist/gif-hub>gif-hub</a>
     - GIF management application.
 </h4>  
 <h4>
