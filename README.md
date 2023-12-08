@@ -31,6 +31,11 @@ ___
    <a href=https://github.com/jesyscyclist/react-burger>react-burger</a>
     - Burger builder with order tracking.
 </h4>
+<h4>
+   <a href=https://github.com/jesyscyclist/lazy-ui-library>lazy-ui-library</a>
+   <a href=https://github.com/jesyscyclist/lazy-ui-library/pkgs/npm/lazy-ui-library>lazy-ui-library</a>
+    - UI library of custom components.
+</h4>  
 
                                                                                                                                 
 <div>
