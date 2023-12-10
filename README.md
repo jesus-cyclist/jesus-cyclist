@@ -40,7 +40,7 @@ ___
 <div>
   <h3>🤝 Connect with me:</h3>
   <h4>Telegram: <a href=https://t.me/jesys_cyclist>@jesys_cyclist</a></h4>                                                                                                           
-  <h4>E-Mail: <a href="mailto:gttravel@gmail.com">gttravel@gmail.com</a></h4>                                                                                                       
+  <h4>E-Mail: <a href="mailto:ilin.nikolay.serg@yandex.ru">ilin.nikolay.serg@yandex.ru</a></h4>                                                                                                       
  </div>
 <!---
 --->
