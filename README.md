@@ -24,6 +24,10 @@ ___
                                                                                                                                 
 ### My pet projects:
 <h4>
+   <a href=https://github.com/jesyscyclist/wake-up-neo>gif-hub</a>
+    - Real-time chat application.
+</h4> 
+<h4>
    <a href=https://github.com/jesyscyclist/gif-hub>gif-hub</a>
     - GIF management application.
 </h4>  
