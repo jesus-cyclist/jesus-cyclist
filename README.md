@@ -24,7 +24,7 @@ ___
                                                                                                                                 
 ### My pet projects:
 <h4>
-   <a href=https://github.com/jesyscyclist/wake-up-neo>gif-hub</a>
+   <a href=https://github.com/jesyscyclist/wake-up-neo>wake-up-neo</a>
     - Real-time chat application.
 </h4> 
 <h4>
