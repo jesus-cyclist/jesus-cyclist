@@ -17,9 +17,10 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Reduxt width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="Reduxt width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Reduxt width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Reduxt width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="Reduxt width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Reduxt width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Reduxt width="40" height="40"/>
+  <img src="https://github.com/i18next/i18next.com/blob/master/_resources/i18next_logo/alt/logo.jpg" title="Reduxt width="40" height="40"/>
 </div>
 
 ### Stats:                                                                                                                                                                                                                                        
