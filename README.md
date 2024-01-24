@@ -8,20 +8,21 @@
 ___
 
 ### Languages and Tools:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Reduxt width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="Reduxt width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Reduxt width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Reduxt width="40" height="40"/>
-  <img src="https://github.com/i18next/i18next.com/blob/master/_resources/i18next_logo/alt/logo.jpg" title="Reduxt width="40" height="40"/>
-</div>
+
+![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg "JavaScript") 
+![TypeScript](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg "TypeScript") 
+![CSS3](https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg "CSS3") 
+![HTML5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg "HTML5") 
+![Git](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg "Git")
+![Webpack](https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg "Webpack") 
+![React](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg "React") 
+![Redux](https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg "Redux") 
+![Socket.io](https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg "Socket.io")
+![Express](https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg "Express") 
+![MongoDB](https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg "MongoDB") 
+![i18next](https://github.com/i18next/i18next.com/blob/master/_resources/i18next_logo/alt/logo.jpg "i18next")
+
+
 
 ### Stats:                                                                                                                                                                                                                                        
 ![image](https://www.codewars.com/users/jesyscyclist/badges/small)
