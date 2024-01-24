@@ -8,9 +8,18 @@
 ___
 
 ### Languages and Tools:
-![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg "JavaScript") ![TypeScript](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg "TypeScript") ![CSS3](https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg "CSS3") ![HTML5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg "HTML5") ![Git](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg "Git") ![Webpack](https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg "Webpack") ![React](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg "React") ![Redux](https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg "Redux") ![Socket.io](https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg "Socket.io") ![Express](https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg "Express") ![MongoDB](https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg "MongoDB") ![i18next](https://github.com/i18next/i18next.com/blob/master/_resources/i18next_logo/alt/logo.jpg "i18next")
-
-
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Next-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
+[![CSS3](https://img.shields.io/badge/CSS3-Styles-orange?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![HTML5](https://img.shields.io/badge/HTML5-Markup-orange?style=flat-square&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Git](https://img.shields.io/badge/Git-Version%20Control-red?style=flat-square&logo=git)](https://git-scm.com/)
+[![Webpack](https://img.shields.io/badge/Webpack-Module%20Bundler-blueviolet?style=flat-square&logo=webpack)](https://webpack.js.org/)
+[![React](https://img.shields.io/badge/React-Library-blue?style=flat-square&logo=react)](https://reactjs.org/)
+[![Redux](https://img.shields.io/badge/Redux-State%20Management-purple?style=flat-square&logo=redux)](https://redux.js.org/)
+[![Socket.io](https://img.shields.io/badge/Socket.io-Real--Time%20Communication-green?style=flat-square&logo=socket.io)](https://socket.io/)
+[![Express](https://img.shields.io/badge/Express-Framework-yellow?style=flat-square&logo=express)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-Database-brightgreen?style=flat-square&logo=mongodb)](https://www.mongodb.com/)
+[![i18next](https://img.shields.io/badge/i18next-Internationalization-red?style=flat-square)](https://www.i18next.com/)
 
 ### Stats:                                                                                                                                                                                                                                        
 ![image](https://www.codewars.com/users/jesyscyclist/badges/small)
