@@ -22,7 +22,7 @@ ___
 [![i18next](https://img.shields.io/badge/i18next-Internationalization-red?style=flat-square)](https://www.i18next.com/)
 
 ### Stats:                                                                                                                                                                                                                                        
-![image](https://www.codewars.com/users/jesyscyclist/badges/small)
+![image](https://www.codewars.com/users/jesus-cyclist/badges/small)
                                                                                                                                 
 ### My pet projects:
 <h4>
