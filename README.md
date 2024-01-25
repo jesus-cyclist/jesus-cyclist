@@ -26,23 +26,23 @@ ___
                                                                                                                                 
 ### My pet projects:
 <h4>
-   <a href=https://github.com/jesyscyclist/wake-up-neo>wake-up-neo</a>
+   <a href=https://github.com/jesus-cyclist/wake-up-neo>wake-up-neo</a>
     - Real-time chat application.
 </h4> 
 <h4>
-   <a href=https://github.com/jesyscyclist/marketing-website>marketing-website</a>
+   <a href=https://github.com/jesus-cyclist/marketing-website>marketing-website</a>
     - An adaptive modern Marketing website.
 </h4> 
 <h4>
-   <a href=https://github.com/jesyscyclist/react-burger>react-burger</a>
+   <a href=https://github.com/jesus-cyclist/react-burger>react-burger</a>
     - Burger builder with order tracking.
 </h4>
 <h4>
-   <a href=https://github.com/jesyscyclist/lazy-ui-library/pkgs/npm/lazy-ui-library>lazy-ui-library</a>
+   <a href=https://github.com/jesus-cyclist/lazy-ui-library/pkgs/npm/lazy-ui-library>lazy-ui-library</a>
     - UI library of custom components.
 </h4>  
 <h4>
-   <a href=https://github.com/jesyscyclist/gif-hub>gif-hub</a>
+   <a href=https://github.com/jesus-cyclist/gif-hub>gif-hub</a>
     - GIF management application.
 </h4>  
 
