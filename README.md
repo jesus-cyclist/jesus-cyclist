@@ -26,6 +26,10 @@ ___
                                                                                                                                 
 ### My pet projects:
 <h4>
+   <a href=https://github.com/jesus-cyclist/re-tweet>re-tweet</a>
+    - News application with authentication, bookmarking, and reposting features.
+</h4> 
+<h4>
    <a href=https://github.com/jesus-cyclist/wake-up-neo>wake-up-neo</a>
     - Real-time chat application.
 </h4> 
@@ -41,10 +45,7 @@ ___
    <a href=https://github.com/jesus-cyclist/lazy-ui-library>lazy-ui-library</a>
     - UI library of custom components.
 </h4>  
-<h4>
-   <a href=https://github.com/jesus-cyclist/gif-hub>gif-hub</a>
-    - GIF management application.
-</h4>  
+ 
 
                                                                                                                                 
 <div>
